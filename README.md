@@ -1,2 +1,4 @@
 # DSA
-Here it contains all the codes that i practice on the daily basis
+List of DSA questions Topic Wise
+
+Website: https://www.techiedelight.com/data-structures-and-algorithms-problems/
